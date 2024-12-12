@@ -53,7 +53,7 @@ export const Banner = () => {
 
   const handlePortfolioClick = () => {
     // Opens the PDF file in a new tab
-    window.open("/resume-dec.pdf", "_blank"); // Replace with the correct path to your PDF file
+    window.open("/CV-Gannaban.pdf", "_blank"); // Replace with the correct path to your PDF file
   };
 
   return (
